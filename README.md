@@ -1,7 +1,8 @@
 [![Build Status](https://travis-ci.org/drugilsberg/paccmann.svg?branch=master)](https://travis-ci.org/drugilsberg/paccmann)
 
 # DISCLAIMER:
-This code gives the `tensorflow` implementation of PaccMann as of our paper in [Molecular Pharmaceutics](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.9b00520). For new developments and `pytorch` implementations look at our [PaccMann organization](https://github.com/PaccMann/).
+
+This code gives the `tensorflow` implementation of PaccMann as of our paper in [Molecular Pharmaceutics](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.9b00520).
 
 # PaccMann
 
@@ -10,6 +11,7 @@ This code gives the `tensorflow` implementation of PaccMann as of our paper in [
 The package provides a toolbox of learning models for IC50 prediction using drug's chemical properties and tissue-specific cell lines gene expression.
 
 ### Citation
+
 Please cite us as follows:
 ``` bib
 @article{oskooei2018paccmann,
