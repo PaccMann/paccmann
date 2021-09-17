@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/drugilsberg/paccmann.svg?branch=master)](https://travis-ci.org/drugilsberg/paccmann)
+[![Build Status](https://github.com/drugilsberg/paccmann/actions/workflows/build.yml/badge.svg)](https://github.com/drugilsberg/paccmann/actions/workflows/build.yml)
 
 # DISCLAIMER:
 
